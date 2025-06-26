@@ -17,4 +17,3 @@ Build dưới local :
 ```
 **Khi lên server thì chỉ hiện thị tên giải ở phần WriteUps thui. Flag -D để tên challenge cũng hiện ở WriteUps Local cho dễ debug thui.**
 
-# Git push
