@@ -61,41 +61,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Cybercup 2025</title>
-      <link>http://localhost:1313/tags/cybercup-2025/</link>
-      <pubDate>Tue, 08 Apr 2025 17:54:49 +0200</pubDate>
-      
-      <guid>http://localhost:1313/tags/cybercup-2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Italy</title>
-      <link>http://localhost:1313/tags/italy/</link>
-      <pubDate>Tue, 08 Apr 2025 17:54:49 +0200</pubDate>
-      
-      <guid>http://localhost:1313/tags/italy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team Ulisse</title>
-      <link>http://localhost:1313/tags/team-ulisse/</link>
-      <pubDate>Tue, 08 Apr 2025 17:54:49 +0200</pubDate>
-      
-      <guid>http://localhost:1313/tags/team-ulisse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team TRX</title>
-      <link>http://localhost:1313/tags/team-trx/</link>
-      <pubDate>Mon, 10 Mar 2025 18:57:11 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/team-trx/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
